@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leohanwww
 - 👀 I’m interested in python java deep learning....
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning javascript and java with springboot
 - 📫 How to reach me contact leohanwww@gmail.com
 
 <!---
